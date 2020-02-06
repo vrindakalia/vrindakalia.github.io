@@ -1,0 +1,8 @@
+---
+title: "Toxicology"
+output: html_document
+---
+
+#### Meet the worms!
+
+*Caenorhabditis elegans* provide an opportunity to control the genetic and environmental  milieu in the lab. Using these non-parastic nematodes, I study the effect of toxicant exposure on disease pathology and global metabolism using untargeted metabolomic techniques. 
