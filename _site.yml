@@ -1,0 +1,12 @@
+name: "webpage"
+output_dir: "docs"
+navbar:
+    title: "Vrinda Kalia"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "My model"
+        href: worms.html
+output:
+ html_document:
+   theme: cosmo
