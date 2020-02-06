@@ -1,5 +1,5 @@
 ---
-title: "Toxicology"
+title: "My  model organism"
 ---
 
 #### Meet the worms!

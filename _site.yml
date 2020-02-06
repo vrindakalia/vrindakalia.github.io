@@ -5,7 +5,7 @@ navbar:
     left:
       - text: "Home"
         href: index.html
-      - text: "My model"
+      - text: "Toxicology"
         href: worms.html
 output:
  html_document:
