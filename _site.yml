@@ -1,12 +1,21 @@
-name: "webpage"
+name: "vrinda-kalia"
 output_dir: "."
 navbar:
     title: "Vrinda Kalia"
     left:
       - text: "Home"
         href: index.html
-      - text: "Toxicology"
-        href: worms.html
+      - text: "The exposome"
+        href: exposome.html
+      - text: "My research"        
+        menu:
+         - text: "Epidemiology"
+           href: epi.html
+         - text: "Laboratory science"
+           href: worms.html
+      - text: "Contact"
+        href: contact.html
+        
 output:
  html_document:
    theme: cosmo

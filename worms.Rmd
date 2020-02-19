@@ -1,7 +1,10 @@
 ---
-title: "My  model organism"
+title: "Laboratory Science"
 ---
 
-#### Meet the worms!
+In the lab, I use [*Caenorhabditis elegans*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans), as a model to study the effects of chemical exposures on the nervous system, and the interaction of this relationship with the aging process. 
 
-*Caenorhabditis elegans* provide an opportunity to control the genetic and environmental  milieu in the lab. Using these non-parastic nematodes, I study the effect of toxicant exposure on disease pathology and global metabolism using untargeted metabolomic techniques. 
+References:  
+
+*Cole, T. B. et al. Sex and genetic differences in the effects of acute diesel exhaust exposure on inflammation and oxidative stress in mouse brain. Toxicology 374, 1–9 (2016).*
+

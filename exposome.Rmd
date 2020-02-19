@@ -1,0 +1,11 @@
+---
+title: "The exposome"
+---
+
+References: 
+
+*Kalia, V., Barouki, R. & Miller, G. W. The Exposome: Pursuing the Totality of Exposure. in A New Paradigm for Environmental Chemistry and Toxicology: From Concepts to Insights (eds. Jiang, G. & Li, X.) 3–10 (Springer, 2020).*   doi:10.1007/978-981-13-9447-8_1.
+
+*Kalia, V., Jones, D. P. & Miller, G. W. Networks at the nexus of systems biology and the exposome. Current Opinion in Toxicology (2019)*   
+doi:10.1016/j.cotox.2019.03.008.*
+

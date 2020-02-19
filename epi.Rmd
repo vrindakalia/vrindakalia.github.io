@@ -1,0 +1,21 @@
+---
+title: "Epidemiology"
+---
+
+Population science allows us to use natural experiments to answer questions about factors that infleunce human health and disease. Using molecular epidemiological and bioinformatic methods, I am interested in understanding biochemical changes associated with human disease and exposure to the environment. 
+
+References:
+
+*Lee, J. et al. Prenatal airborne polycyclic aromatic hydrocarbon exposure, LINE1 methylation and child development in a Chinese cohort. Environ Int 99, 315–320 (2017).*    
+
+*Kalia, V., Perera, F. & Tang, D. Environmental Pollutants and Neurodevelopment: Review of Benefits from Closure of a Coal-Burning Power Plant in Tongliang, China. Glob Pediatr Health 4, (2017).*  
+
+*Vardarajan, B. N. et al. Differences in Plasma Metabolites Related to Alzheimer’s Disease, APOE-e4 Status and Ethnicity. medRxiv 2020.01.10.20016741 (2020)*  
+doi:10.1101/2020.01.10.20016741.
+
+
+
+
+
+
+

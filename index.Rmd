@@ -1,8 +1,14 @@
 ---
-title: "Worms and small molecules"
+title: "Human health and the environment"
 output: html_document
 ---
 
-### Welcome 
 
-My research focuses on biochemical changes that accompany human diseases of aging. I am interested in studying how exposure to environmental toxicants affects systemic biochemistry.
+I am a doctoral candidate studying environmental health sciences. My research is focused on understanding human health consequences of the [exposome](https://science.sciencemag.org/content/367/6476/392). I pursue this interest using methods from epidemiology and laboratory sciences.   
+
+My doctoral research focuses on biochemical changes that accompany human diseases of aging (particularly Alzheimer's disease).
+
+
+```{r, out.width = "800px", echo=F}
+knitr::include_graphics("images/aims.tiff")
+```
