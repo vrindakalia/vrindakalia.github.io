@@ -8,7 +8,5 @@ I am a doctoral candidate studying environmental health sciences. My research is
 
 My doctoral research focuses on biochemical changes that accompany human diseases of aging (particularly Alzheimer's disease).
 
+<img src="images/aims.tiff" style="width:65%; border:2px solid; margin-right: 20px">
 
-```{r, out.width = "800px", echo=F}
-knitr::include_graphics("images/aims.tiff")
-```
