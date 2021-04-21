@@ -6,11 +6,11 @@ In the lab, I use [*Caenorhabditis elegans*](https://en.wikipedia.org/wiki/Caeno
 
 References:  
 
-*Cole, T. B. et al. Sex and genetic differences in the effects of acute diesel exhaust exposure on inflammation and oxidative stress in mouse brain. Toxicology 374, 1–9 (2016).*
+*Cole, T. B. et al. Sex and genetic differences in the effects of acute diesel exhaust exposure on inflammation and oxidative stress in mouse brain. Toxicology 374, 1–9 (2016).*  
 
-*Bradner JM, Kalia V, Lau FK, et al. Genetic or toxicant induced disruption of vesicular monoamine storage and global metabolic profiling in Caenorhabditis elegans. bioRxiv. Published online October 2, 2020:2020.10.02.324095. doi:10.1101/2020.10.02.324095*
+*Bradner JM, Kalia V, Lau FK, et al. Genetic or toxicant induced disruption of vesicular monoamine storage and global metabolic profiling in Caenorhabditis elegans. bioRxiv. Published online October 2, 2020:2020.10.02.324095. doi:10.1101/2020.10.02.324095*  
 
-*Mor DE, Sohrabi S, Kaletsky R, et al. Metformin rescues Parkinson’s disease phenotypes caused by hyperactive mitochondria. PNAS. Published online October 6, 2020. doi:10.1073/pnas.2009838117*
+*Mor DE, Sohrabi S, Kaletsky R, et al. Metformin rescues Parkinson’s disease phenotypes caused by hyperactive mitochondria. PNAS. Published online October 6, 2020. doi:10.1073/pnas.2009838117*  
 
 
 
