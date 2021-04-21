@@ -1,12 +1,10 @@
 ---
-title: "Human health and the environment"
+title: "Vrinda Kalia"
 output: html_document
 ---
 
 
-I am a doctoral candidate studying environmental health sciences. My research is focused on understanding human health consequences of the [exposome](https://science.sciencemag.org/content/367/6476/392). I pursue this interest using methods from epidemiology and laboratory sciences.   
+I am an environmental health scientist interested in understanding how environmental  chemicals affect human health. I pursue this interest using methods from analytical chemistry, bioinformatics, epidemiology and laboratory sciences.   
 
-My doctoral research focuses on biochemical changes that accompany human diseases of aging, particularly Alzheimer's disease.
 
-<img src="images/aims.png" style="width:65%; border:2px solid; margin-right: 20px">
 
